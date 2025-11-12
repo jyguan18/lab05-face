@@ -1,7 +1,14 @@
 # lab06-proceduralFace
 
-Let's practice parameterization! We'll be starting with an oh-so-beautiful gingerbread man face that looks like this:
-![image](https://github.com/user-attachments/assets/4707eb0a-b25e-4eda-84e3-3bb336981781)
+Link to my Shadertoy: [https://www.shadertoy.com/view/wXBfDV](https://www.shadertoy.com/view/wXBfDV)
+
+And some images from my gingerbread man!
+
+<img width="961" height="542" alt="image" src="https://github.com/user-attachments/assets/56445ea9-1f1a-4da4-85ce-87ff21763b1f" />
+<img width="958" height="540" alt="image" src="https://github.com/user-attachments/assets/3ec0f89e-c658-4226-98db-41ee8a0d696c" />
+<img width="953" height="542" alt="image" src="https://github.com/user-attachments/assets/d92263b8-dff4-4894-89fd-5baa69c657cc" />
+
+
 
 ## Setup
 Start by forking [this shadertoy](https://www.shadertoy.com/view/XftyR8)
